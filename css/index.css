@@ -131,6 +131,36 @@ header nav a{
     align-items: center;
     justify-content: center;
 }
+.middle-content .boxes .box:nth-child(1n){
+    background:teal; 
+}
+.middle-content .boxes .box:nth-child(2n){
+    background:gold; 
+}
+.middle-content .boxes .box:nth-child(3n){
+    background:cadetblue; 
+}
+.middle-content .boxes .box:nth-child(4n){
+    background:coral; 
+}
+.middle-content .boxes .box:nth-child(5n){
+    background:crimson; 
+}
+.middle-content .boxes .box:nth-child(6n){
+    background:forestgreen; 
+}
+.middle-content .boxes .box:nth-child(7n){
+    background:darkorchid; 
+}
+.middle-content .boxes .box:nth-child(8n){
+    background:hotpink; 
+}
+.middle-content .boxes .box:nth-child(9n){
+    background:indigo; 
+}
+.middle-content .boxes .box:nth-child(10n){
+    background:dodgerblue; 
+}
 
 .bottom-content {
     display: flex;
